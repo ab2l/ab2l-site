@@ -28,6 +28,8 @@ module.exports = {
   // add your custom rules here
   'rules': {
     'no-console': 'off',
+    'no-plusplus': 'off',
+    'prefer-const': 'off',
     // don't require .vue extension when importing
     'import/extensions': ['error', 'always', {
       'js': 'never',
