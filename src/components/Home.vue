@@ -24,8 +24,19 @@ export default {
   created() {
     axios.get('/static/companies/companies.json')
       .then(({ data }) => {
-        this.companies = data.companies;
+        this.companies = this.shuffleArray(data.companies);
       });
+  },
+  methods: {
+    shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        let j = Math.floor(Math.random() * (i + 1));
+        let temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+      }
+      return array;
+    },
   },
 };
 </script>
