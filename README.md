@@ -1,6 +1,8 @@
 # ab2l
 
-> A Vue.js project
+É o projeto com as empresas da Ab2l.
+Para adicionar uma empresa basta fazer um pull request alterando o arquivo static/companies/companies.json
+
 
 ## Build Setup
 
