@@ -1,0 +1,89 @@
+{
+  "companies": [
+    {
+      "name": "Acordo Fechado",
+      "logo": "acordofechado.png",
+      "website": "https://acordofechado.com.br/"
+    },
+    {
+      "name": "Contraktor",
+      "logo": "contraktor.png",
+      "website": "https://www.contraktor.com.br/"
+    },
+    {
+      "name": "Dubbio",
+      "logo": "dubblio.png",
+      "website": "https://www.dubbio.com.br/"
+    },
+    {
+      "name": "eConciliar",
+      "logo": "econciliar.png",
+      "website": "https://www.econciliar.com.br/"
+    },
+    {
+      "name": "ei",
+      "logo": "ei.png",
+      "website": ""
+    },
+    {
+      "name": "Handshake",
+      "logo": "handshake.png",
+      "website": "http://www.apphandshake.com.br/"
+    },
+    {
+      "name": "Invenis",
+      "logo": "invenis.png",
+      "website": "http://invenis.com.br/"
+    },
+    {
+      "name": "Juris Correspondente",
+      "logo": "juriscorrespondente.png",
+      "website": "https://www.juriscorrespondente.com.br/"
+    },
+    {
+      "name": "Justap",
+      "logo": "justap.png",
+      "website": "https://www.justap.com.br/"
+    },
+    {
+      "name": "Justto",
+      "logo": "justto.png",
+      "website": "https://justto.com.br/"
+    },
+    {
+      "name": "Legalinsights",
+      "logo": "legalinsights.png",
+      "website": "https://www.legalinsights.com.br/"
+    },
+    {
+      "name": "Legaltech",
+      "logo": "legaltech.png",
+      "website": "http://www.legaltech.com.br"
+    },
+    {
+      "name": "Mol",
+      "logo": "mol.png",
+      "website": "http://www.mediacaonline.com/"
+    },
+    {
+      "name": "Potelo",
+      "logo": "potelo.png",
+      "website": "http://www.potelo.com.br/"
+    },
+    {
+      "name": "Sem Processo",
+      "logo": "semprocesso.png",
+      "website": "https://www.semprocesso.com.br/"
+    },
+    {
+      "name": "Sob Demanda",
+      "logo": "sobdemanda.png",
+      "website": "http://www.sobdemanda.com.br/"
+    },
+    {
+      "name": "Tikaltech",
+      "logo": "tikaltech.png",
+      "website": "http://www.tikal.tech/"
+    }
+  ]
+}
