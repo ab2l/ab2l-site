@@ -30,6 +30,7 @@ module.exports = {
     'no-console': 'off',
     'no-plusplus': 'off',
     'prefer-const': 'off',
+    'no-param-reassign': 'off',
     // don't require .vue extension when importing
     'import/extensions': ['error', 'always', {
       'js': 'never',
