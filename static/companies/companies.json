@@ -94,6 +94,11 @@
       "name": "Tikaltech",
       "logo": "tikaltech.png",
       "website": "http://www.tikal.tech/"
+    },
+    {
+      "name": "Legal Labs",
+      "logo": "legal-labs.png",
+      "website": "http://legalabs.com.br/"
     }
   ]
 }
