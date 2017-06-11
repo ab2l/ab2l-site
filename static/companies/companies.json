@@ -114,6 +114,11 @@
       "name": "Advise",
       "logo": "advise.png",
       "website": "https://www.advisebrasil.com.br/"
+    },
+    {
+      "name": "TodosAdvogados",
+      "logo": "todosadv.png",
+      "website": "https://www.todosadvogados.com.br/"
     }
   ]
 }
