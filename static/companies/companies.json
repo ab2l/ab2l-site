@@ -119,6 +119,11 @@
       "name": "TodosAdvogados",
       "logo": "todosadv.jpg",
       "website": "https://www.todosadvogados.com.br/"
+    },
+    {
+      "name": "Aurum Software",
+      "logo": "aurum.jpg",
+      "website": "https://www.aurum.com.br/"
     }
   ]
 }
