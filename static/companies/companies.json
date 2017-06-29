@@ -129,6 +129,11 @@
       "name": "Aurum Software",
       "logo": "aurum.jpg",
       "website": "https://www.aurum.com.br/"
+    },
+    {
+      "name": "Juridoc",
+      "logo": "juridoc.png",
+      "website": "https://www.juridoc.com.br/"
     }
   ]
 }
