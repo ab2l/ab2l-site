@@ -129,6 +129,11 @@
       "name": "Aurum Software",
       "logo": "aurum.jpg",
       "website": "https://www.aurum.com.br/"
+    },
+    {
+      "name": "SigaLei",
+      "logo": "sigalei.jpg",
+      "website": "https://www.sigalei.com.br/"
     }
   ]
 }
