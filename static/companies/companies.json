@@ -3,143 +3,170 @@
     {
       "name": "Acordo Fechado",
       "logo": "acordofechado.png",
-      "href": "https://acordofechado.com.br/"
+      "href": "https://acordofechado.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Oystr",
       "logo": "oystr.png",
-      "href": "http://www.oystr.com.br/"
+      "href": "http://www.oystr.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Contraktor",
       "logo": "contraktor.png",
-      "href": "https://www.contraktor.com.br/"
+      "href": "https://www.contraktor.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Dubbio",
       "logo": "dubblio.png",
-      "href": "https://www.dubbio.com.br/"
+      "href": "https://www.dubbio.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "eConciliar",
       "logo": "econciliar.png",
-      "href": "https://www.econciliar.com.br/"
+      "href": "https://www.econciliar.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "ei",
       "logo": "ei.png",
-      "href": ""
+      "href": "",
+      "description": "Descrição"
     },
     {
       "name": "Handshake",
       "logo": "handshake.png",
-      "href": "http://www.apphandshake.com.br/"
+      "href": "http://www.apphandshake.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Intelivix",
       "logo": "intelivix.png",
-      "href": "http://intelivix.com/"
+      "href": "http://intelivix.com/",
+      "description": "Descrição"
     },
     {
       "name": "Invenis",
       "logo": "invenis.png",
-      "href": "http://invenis.com.br/"
+      "href": "http://invenis.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Jurídico Certo",
       "logo": "juridicocerto.png",
-      "href": "https://juridicocerto.com/"
+      "href": "https://juridicocerto.com/",
+      "description": "Descrição"
     },
     {
       "name": "Juris Correspondente",
       "logo": "juriscorrespondente.png",
-      "href": "https://www.juriscorrespondente.com.br/"
+      "href": "https://www.juriscorrespondente.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Justap",
       "logo": "justap.png",
-      "href": "https://www.justap.com.br/"
+      "href": "https://www.justap.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Justto",
       "logo": "justto.png",
-      "href": "https://justto.com.br/"
+      "href": "https://justto.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Legalinsights",
       "logo": "legalinsights.png",
-      "href": "https://www.legalinsights.com.br/"
+      "href": "https://www.legalinsights.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Legaltech",
       "logo": "legaltech.png",
-      "href": "http://www.legaltech.com.br"
+      "href": "http://www.legaltech.com.br",
+      "description": "Descrição"
     },
     {
       "name": "Linte",
       "logo": "linte.png",
-      "href": "https://www.linte.com.br"
+      "href": "https://www.linte.com.br",
+      "description": "Descrição"
     },
     {
       "name": "Mol",
       "logo": "mol.png",
-      "href": "http://www.mediacaonline.com/"
+      "href": "http://www.mediacaonline.com/",
+      "description": "Descrição"
     },
     {
       "name": "Potelo",
       "logo": "potelo.png",
       "href": "http://www.potelo.com.br/",
-      "description": "Descrição..."
+      "description": "Descrição"
     },
     {
       "name": "Sem Processo",
       "logo": "semprocesso.png",
-      "href": "https://www.semprocesso.com.br/"
+      "href": "https://www.semprocesso.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Sob Demanda",
       "logo": "sobdemanda.png",
-      "href": "http://www.sobdemanda.com.br/"
+      "href": "http://www.sobdemanda.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Tikaltech",
       "logo": "tikaltech.png",
-      "href": "http://www.tikal.tech/"
+      "href": "http://www.tikal.tech/",
+      "description": "Descrição"
     },
     {
       "name": "Legal Labs",
       "logo": "legal-labs.png",
-      "href": "http://legalabs.com.br/"
+      "href": "http://legalabs.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "ajudaJUS",
       "logo": "ajudaJUS.png",
-      "href": "https://www.ajudajus.com.br/"
+      "href": "https://www.ajudajus.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Advise",
       "logo": "advise.png",
-      "href": "https://www.advisebrasil.com.br/"
+      "href": "https://www.advisebrasil.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "TodosAdvogados",
       "logo": "todosadv.jpg",
-      "href": "https://www.todosadvogados.com.br/"
+      "href": "https://www.todosadvogados.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Aurum Software",
       "logo": "aurum.jpg",
-      "href": "https://www.aurum.com.br/"
+      "href": "https://www.aurum.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "SigaLei",
       "logo": "sigalei.jpg",
-      "href": "https://www.sigalei.com.br/"
+      "href": "https://www.sigalei.com.br/",
+      "description": "Descrição"
     },
     {
       "name": "Justiça Simples",
       "logo": "justicasimples.png",
-      "href": "https://www.justicasimples.com.br/"
+      "href": "https://www.justicasimples.com.br/",
+      "description": "Descrição"
     }
   ]
 }
