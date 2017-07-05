@@ -167,6 +167,13 @@
       "logo": "justicasimples.png",
       "href": "http://www.justicasimples.com.br/",
       "description": "Consulta processual unificada"
+
+    },
+    {
+      "name": "Prospere Consultoria Estratégica",
+      "logo": "prospereconsult.png",
+      "href": "https://www.prospereconsult.com.br/",
+      "description": ""
     }
   ]
 }
