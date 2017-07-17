@@ -180,6 +180,12 @@
       "logo": "uplexis.png",
       "href": "http://www.uplexis.com.br/",
       "description": "Informação relevante para sua tomada de decisão"
+    },
+	{
+      "name": "Aviso Urgente",
+      "logo": "avisourgente.png",
+      "href": "https://www.avisourgente.com.br/",
+      "description": "Software jurídico inteligente para advogados eficientes"
     }
   ]
 }
