@@ -186,6 +186,12 @@
       "logo": "avisourgente.png",
       "href": "https://www.avisourgente.com.br/",
       "description": "Software jurídico inteligente para advogados eficientes"
+    },
+	{
+      "name": "Nós8",
+      "logo": "N8.png",
+      "href": "https://www.nos8.com.br/",
+      "description": "Coletivo de Advogados especilizados em startups que prestam mentoria jurídica gratuita, no formato freemium"
     }
   ]
 }
