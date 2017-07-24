@@ -192,6 +192,18 @@
       "logo": "N8.png",
       "href": "https://www.nos8.com.br/",
       "description": "Coletivo de Advogados especilizados em startups que prestam mentoria jurídica gratuita, no formato freemium"
+    },
+	{
+      "name": "JOTA",
+      "logo": "jota.jpg",
+      "href": "https://jota.info/",
+      "description": "Justiça se escreve com Jota. A informação jurídica que você precisa, feita por quem entende"
+    },
+	{
+      "name": "e-Xyon",
+      "logo": "e-xyon.png",
+      "href": "https://www.nos8.com.br/",
+      "description": "A e-Xyon é uma empresa brasileira especializada em Tecnologia para Gestão, com ênfase em desenvolvimento de sistemas e metodologias para Gestão Jurídica e Gestão de Contratos"
     }
   ]
 }
