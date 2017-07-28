@@ -7,7 +7,7 @@
       <svg @click="isEditalVisible = !isEditalVisible" class="Alert__icon" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" viewBox="0 0 100 125"><g transform="translate(0,-952.36218)"><path  d="M 15.875 31.96875 A 1.0000999 1.0000999 0 0 0 15.28125 33.6875 L 49.28125 67.6875 A 1.0000999 1.0000999 0 0 0 50.71875 67.6875 L 84.71875 33.6875 A 1.0054782 1.0054782 0 1 0 83.28125 32.28125 L 50 65.5625 L 16.71875 32.28125 A 1.0000999 1.0000999 0 0 0 15.875 31.96875 z " transform="translate(0,952.36218)"/></g></svg>
       <div v-if="isEditalVisible" class="container">
         <p>
-          Nos termos do Estatuto, convoco os senhores associados da AB2L - Associação Brasileira de Lawtechs e Legaltechs para a reunião da Assembléia Geral Ordinária a realizar-se em sua sede, à Rua do Passeio, nº 70, 13º andar - Centro, CEP 20.021-290, na cidade do Rio de Janeiro, estado do Rio de Janeiro, no dia 19/07/2017, às 14 horas, em primeira convocação, havendo quorum, ou às 14:30, em segunda convocação, com qualquer número de pessoas presentes, para o fim de deliberarem sobre a seguinte pauta
+          Nos termos do Estatuto, convoco os senhores associados da AB2L - Associação Brasileira de Lawtechs e Legaltechs para a reunião da Assembléia Geral Ordinária a realizar-se à R. Casa do Ator, 919 - Vila Olímpia, São Paulo - SP, 04546-003 no dia 16/08/2017, às 10 horas, em primeira convocação, havendo quorum, ou às 10:30, em segunda convocação, com qualquer número de pessoas presentes, para o fim de deliberarem sobre a seguinte pauta
         </p>
         <ul>
           <li>1 - Definição do valor de contribuição mensal emergencial, o modelo de pagamento e datas;</li>
@@ -19,7 +19,7 @@
           <li>7 - Revisão do que foi feito até o momento por cada comitê da associação;</li>
           <li>8 - Informações sobre quais comitês existem e o que vem sendo discutido.</li>
         </ul>
-        <p>Rio de Janeiro, 03 de julho de 2017</p>
+        <p>Rio de Janeiro, 29 de julho de 2017</p>
         <p><strong>Bruno Feigelson</br>
           Diretor-Presidente</strong></p>
       </div>

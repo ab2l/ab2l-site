@@ -204,6 +204,12 @@
       "logo": "e-xyon.png",
       "href": "https://e-xyon.com.br/",
       "description": "A e-Xyon é uma empresa brasileira especializada em Tecnologia para Gestão, com ênfase em desenvolvimento de sistemas e metodologias para Gestão Jurídica e Gestão de Contratos"
+    },
+	{
+      "name": "Kurier",
+      "logo": "kurier.png",
+      "href": "https://wwww.kurier.com.br",
+      "description": "A Kurier Tecnologia recupera informações complexas e manuais diretamente dos tribunais e as transforma em formatos otimizados que geram celeridade e praticidade no dia-dia do mercado jurídico"
     }
   ]
 }
