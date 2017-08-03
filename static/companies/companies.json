@@ -3,137 +3,213 @@
     {
       "name": "Acordo Fechado",
       "logo": "acordofechado.png",
-      "website": "https://acordofechado.com.br/"
+      "href": "https://acordofechado.com.br/",
+      "description": "Plataforma de acordos"
     },
     {
       "name": "Oystr",
       "logo": "oystr.png",
-      "website": "http://www.oystr.com.br/"
+      "href": "http://www.oystr.com.br/",
+      "description": "Nossos robôs ajudam escritórios de advocacia e departamentos jurídicos a interagirem com sistemas, como: tribunais e portais eletrônicos, bem como os sistemas de seus clientes."
     },
     {
       "name": "Contraktor",
       "logo": "contraktor.png",
-      "website": "https://www.contraktor.com.br/"
+      "href": "https://www.contraktor.com.br/",
+      "description": "CLM (Contract Lifecycle Management) - gestão do fluxo de contratação"
     },
     {
       "name": "Dubbio",
       "logo": "dubblio.png",
-      "website": "https://www.dubbio.com.br/"
+      "href": "https://www.dubbio.com.br/",
+      "description": "A única plataforma brasileira especializada em sanar dúvidas jurídicas"
     },
     {
       "name": "eConciliar",
       "logo": "econciliar.png",
-      "website": "https://www.econciliar.com.br/"
+      "href": "https://www.econciliar.com.br/",
+      "description": "Resolução de litígios através de conciliação virtual, com lances `as cegas`."
     },
     {
       "name": "ei",
       "logo": "ei.png",
-      "website": ""
+      "href": "",
+      "description": "Descrição"
     },
     {
       "name": "Handshake",
       "logo": "handshake.png",
-      "website": "http://www.apphandshake.com.br/"
+      "href": "http://www.apphandshake.com.br/",
+      "description": ""
     },
     {
       "name": "Intelivix",
       "logo": "intelivix.png",
-      "website": "http://intelivix.com/"
+      "href": "http://intelivix.com/",
+      "description": ""
     },
     {
       "name": "Invenis",
       "logo": "invenis.png",
-      "website": "http://invenis.com.br/"
+      "href": "http://invenis.com.br/",
+      "description": "Alerta de litígios"
     },
     {
       "name": "Jurídico Certo",
       "logo": "juridicocerto.png",
-      "website": "https://juridicocerto.com/"
+      "href": "https://juridicocerto.com/",
+      "description": "Contratação de Correspondentes"
     },
     {
       "name": "Juris Correspondente",
       "logo": "juriscorrespondente.png",
-      "website": "https://www.juriscorrespondente.com.br/"
+      "href": "https://www.juriscorrespondente.com.br/",
+      "description": "A melhor e maior plataforma especializada em divulgação e contratação de advogados correspondentes"
     },
     {
       "name": "Justap",
       "logo": "justap.png",
-      "website": "https://www.justap.com.br/"
+      "href": "https://www.justap.com.br/",
+      "description": ""
     },
     {
       "name": "Justto",
       "logo": "justto.png",
-      "website": "https://justto.com.br/"
+      "href": "https://justto.com.br/",
+      "description": "Resolução eficiente de conflitos"
     },
     {
       "name": "Legalinsights",
       "logo": "legalinsights.png",
-      "website": "https://www.legalinsights.com.br/"
+      "href": "https://www.legalinsights.com.br/",
+      "description": "Analytics para Departamentos Jurídicos reduzirem custo contencioso"
     },
     {
       "name": "Legaltech",
       "logo": "legaltech.png",
-      "website": "http://www.legaltech.com.br"
+      "href": "http://www.legaltech.com.br",
+      "description": ""
     },
     {
       "name": "Linte",
       "logo": "linte.png",
-      "website": "https://www.linte.com.br"
+      "href": "https://www.linte.com.br",
+      "description": "Gestão processos e contratos + Automação de documentos"
     },
     {
       "name": "Mol",
       "logo": "mol.png",
-      "website": "http://www.mediacaonline.com/"
+      "href": "http://www.mediacaonline.com/",
+      "description": ""
     },
     {
       "name": "Potelo",
       "logo": "potelo.png",
-      "website": "http://www.potelo.com.br/"
+      "href": "http://www.potelo.com.br/",
+      "description": "Aprendizado de máquina para compreensão de textos e sistemas de monitoramentos em tribunais e diários oficiais com APIs"
     },
     {
       "name": "Sem Processo",
       "logo": "semprocesso.png",
-      "website": "https://www.semprocesso.com.br/"
+      "href": "https://www.semprocesso.com.br/",
+      "description": "Conecta advogados para resolver conflitos"
     },
     {
       "name": "Sob Demanda",
       "logo": "sobdemanda.png",
-      "website": "http://www.sobdemanda.com.br/"
+      "href": "http://www.sobdemanda.com.br/",
+      "description": "Plataforma de colaboração intelectual para juristas"
     },
     {
       "name": "Tikaltech",
       "logo": "tikaltech.png",
-      "website": "http://www.tikal.tech/"
+      "href": "http://www.tikal.tech/",
+      "description": "Sistema de informações processuais (tribunais e diários oficiais) e plataforma para facilitação de contratação de serviços jurídicos em todas as comarcas do país"
     },
     {
       "name": "Legal Labs",
       "logo": "legal-labs.png",
-      "website": "http://legalabs.com.br/"
+      "href": "http://legalabs.com.br/",
+      "description": "Desenvolvimento de inteligência artificial aplicada do direito, com processamento de linguagem natural, deep learning e análise de sentimentos, usando expressivo banco de dados enriquecido e em constante expansão."
     },
     {
       "name": "ajudaJUS",
       "logo": "ajudaJUS.png",
-      "website": "https://www.ajudajus.com.br/"
+      "href": "https://www.ajudajus.com.br/",
+      "description": "Contratação de Advogados especializado em direito do consumidor"
     },
     {
       "name": "Advise",
       "logo": "advise.png",
-      "website": "https://www.advisebrasil.com.br/"
+      "href": "https://www.advisebrasil.com.br/",
+      "description": "Plataforma com informações juridicas como andamentos, publicações, jurisprudencia, seguro RC"
     },
     {
       "name": "TodosAdvogados",
       "logo": "todosadv.jpg",
-      "website": "https://www.todosadvogados.com.br/"
+      "href": "https://www.todosadvogados.com.br/",
+      "description": "Plataforma para busca e contratação de advogados correspondentes e advogados online para consultas jurídicas"
     },
     {
       "name": "Aurum Software",
       "logo": "aurum.jpg",
-      "website": "https://www.aurum.com.br/"
+      "href": "https://www.aurum.com.br/",
+      "description": "Software jurídico completo para aperfeiçoar sua gestão e elevar sua produtividade"
     },
     {
       "name": "SigaLei",
       "logo": "sigalei.jpg",
-      "website": "https://www.sigalei.com.br/"
+      "href": "https://www.sigalei.com.br/",
+      "description": "Sistema para auxiliar os profissionais de Relações Governamentais à monitorar e influenciar no processo legislativo."
+    },
+    {
+      "name": "Justiça Simples",
+      "logo": "justicasimples.png",
+      "href": "http://www.justicasimples.com.br/",
+      "description": "Consulta processual unificada"
+
+    },
+    {
+      "name": "Prospere Consultoria Estratégica",
+      "logo": "prospereconsult.png",
+      "href": "https://www.prospereconsult.com.br/",
+      "description": ""
+    },
+    {
+      "name": "upLexis",
+      "logo": "uplexis.png",
+      "href": "http://www.uplexis.com.br/",
+      "description": "Informação relevante para sua tomada de decisão"
+    },
+	{
+      "name": "Aviso Urgente",
+      "logo": "avisourgente.png",
+      "href": "https://www.avisourgente.com.br/",
+      "description": "Software jurídico inteligente para advogados eficientes"
+    },
+	{
+      "name": "Nós8",
+      "logo": "N8.png",
+      "href": "https://www.nos8.com.br/",
+      "description": "Coletivo de Advogados especilizados em startups que prestam mentoria jurídica gratuita, no formato freemium"
+    },
+	{
+      "name": "JOTA",
+      "logo": "jota.jpg",
+      "href": "https://jota.info/",
+      "description": "Justiça se escreve com Jota. A informação jurídica que você precisa, feita por quem entende"
+    },
+	{
+      "name": "e-Xyon",
+      "logo": "e-xyon.png",
+      "href": "https://e-xyon.com.br/",
+      "description": "A e-Xyon é uma empresa brasileira especializada em Tecnologia para Gestão, com ênfase em desenvolvimento de sistemas e metodologias para Gestão Jurídica e Gestão de Contratos"
+    },
+	{
+      "name": "Kurier",
+      "logo": "kurier.png",
+      "href": "https://wwww.kurier.com.br",
+      "description": "A Kurier Tecnologia recupera informações complexas e manuais diretamente dos tribunais e as transforma em formatos otimizados que geram celeridade e praticidade no dia-dia do mercado jurídico"
     }
   ]
 }
