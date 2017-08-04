@@ -153,7 +153,6 @@
     {
       "name": "Aurum Software",
       "logo": "aurum.jpg",
-      "website": "https://www.aurum.com.br/"
       "href": "https://www.aurum.com.br/",
       "description": "Software jurídico completo para aperfeiçoar sua gestão e elevar sua produtividade"
     },
@@ -215,7 +214,7 @@
     {
       "name": "Juridoc",
       "logo": "juridoc.png",
-      "website": "https://www.juridoc.com.br/",
+      "href": "https://www.juridoc.com.br/",
       "description": ""
     }
   ]
