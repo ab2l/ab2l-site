@@ -153,6 +153,7 @@
     {
       "name": "Aurum Software",
       "logo": "aurum.jpg",
+      "website": "https://www.aurum.com.br/"
       "href": "https://www.aurum.com.br/",
       "description": "Software jurídico completo para aperfeiçoar sua gestão e elevar sua produtividade"
     },
@@ -210,6 +211,12 @@
       "logo": "kurier.png",
       "href": "https://wwww.kurier.com.br",
       "description": "A Kurier Tecnologia recupera informações complexas e manuais diretamente dos tribunais e as transforma em formatos otimizados que geram celeridade e praticidade no dia-dia do mercado jurídico"
+    },
+    {
+      "name": "Juridoc",
+      "logo": "juridoc.png",
+      "website": "https://www.juridoc.com.br/",
+      "description": ""
     }
   ]
 }
