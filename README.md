@@ -1,7 +1,7 @@
 # ab2l
 
 É o projeto com as empresas da Ab2l.
-Para adicionar uma empresa basta fazer um pull request alterando o arquivo static/companies/companies.json
+Para adicionar uma empresa basta fazer um pull request alterando o arquivo `static/companies/companies.json` e enviando o logotipo na pasta `static/companies/images`
 
 
 ## Build Setup
