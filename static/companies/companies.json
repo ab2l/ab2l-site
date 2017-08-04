@@ -216,6 +216,12 @@
       "logo": "juridoc.png",
       "href": "https://www.juridoc.com.br/",
       "description": ""
+    },
+    {
+      "name": "Looplex",
+      "logo": "Logo para A4.png",
+      "href": "https://www.looplex.com.br/",
+      "description": "Automação inteligente de documentos"
     }
   ]
 }
