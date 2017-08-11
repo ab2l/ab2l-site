@@ -223,5 +223,13 @@
       "href": "https://www.looplex.com.br/",
       "description": "Automação inteligente de documentos"
     }
+          ,
+    {
+      "name": "Tributário",
+      "logo": "tributario.png",
+      "href": "https://www.tributario.com.br/",
+      "description": "Rede de conteúdo tributário relevante"
+    }
+
   ]
 }
