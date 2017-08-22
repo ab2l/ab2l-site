@@ -98,9 +98,15 @@
     },
     {
       "name": "Mol",
-      "logo": "mol.png",
+      "logo": "Logo_Mol.png",
       "href": "http://www.mediacaonline.com/",
       "description": "1ª plataforma digital de mediação extrajudicial do Brasil"
+    },
+    {
+      "name": "MTTech",
+      "logo": "mttech.jpg",
+      "href": "http://www.mttech.com.br/",
+      "description": "Núcleo de inovação tecnológica, desenvolvimento de sistemas de informação e softwares para o mercado jurídico"
     },
     {
       "name": "Potelo",
@@ -222,8 +228,13 @@
       "logo": "Looplex.png",
       "href": "https://www.looplex.com.br/",
       "description": "Automação inteligente de documentos"
-    }
-	,
+    },
+    {
+      "name": "Tributário",
+      "logo": "tributario.png",
+      "href": "https://www.tributario.com.br/",
+      "description": "Rede de conteúdo tributário relevante"
+    },
     {
       "name": "Concilie online",
       "logo": "concilie_online.png",
