@@ -213,7 +213,7 @@
     },
     {
       "name": "Juridoc",
-      "logo": "juridoc.png",
+      "logo": "juridoc.logo.png",
       "href": "https://www.juridoc.com.br/",
       "description": ""
     },
@@ -222,6 +222,13 @@
       "logo": "Looplex.png",
       "href": "https://www.looplex.com.br/",
       "description": "Automação inteligente de documentos"
+    }
+	,
+    {
+      "name": "Concilie online",
+      "logo": "concilie_online.png",
+      "href": "https://www.concilie.com.br/",
+      "description": "Negociação e mediação de conflitos online"
     }
   ]
 }
