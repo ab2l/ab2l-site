@@ -240,6 +240,18 @@
       "logo": "concilie_online.png",
       "href": "https://www.concilie.com.br/",
       "description": "Negociação e mediação de conflitos online"
+    },
+    {
+      "name": "Dacordo",
+      "logo": "dacordo.png",
+      "href": "https://www.dacordo.com.br/",
+      "description": "Prevenção, gerenciamento e resolução de conflitos."
+    },
+    {
+      "name": "ResolvJá",
+      "logo": "resolvJa.png",
+      "href": "https://www.resolvja.com.br/",
+      "description": "Sistema para negociação, mediação e arbitragem online."
     }
   ]
 }
